@@ -1,0 +1,19 @@
+C:\Users\QL0002>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : Dlink
+   IPv6 Address. . . . . . . . . . . : 2406:7400:54:10ce:f9bd:9d5e:1631:edcf
+   Temporary IPv6 Address. . . . . . : 2406:7400:54:10ce:a07f:d5c7:bad7:178b
+   Link-local IPv6 Address . . . . . : fe80::f9bd:9d5e:1631:edcf%11
+   IPv4 Address. . . . . . . . . . . : 192.168.0.8
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Tunnel adapter isatap.Dlink:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : Dlink

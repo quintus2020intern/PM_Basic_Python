@@ -1,0 +1,19 @@
+{
+  "people": [
+    {
+      "id": 10912,
+      "fname": "ali",
+      "lname": "geli"
+    },
+    {
+      "id": 10913,
+      "fname": "holi",
+      "lname": "boli"
+    }
+  ],
+  "goods": {
+    "top": "sirt",
+    "low": "shoes"
+  },
+  "colour": "red"
+}
